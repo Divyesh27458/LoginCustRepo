@@ -1,0 +1,7 @@
+organization=divyesh27458
+projectKey=Divyesh27458_LoginRepo
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.11115
+dashboardUrl=https://sonarcloud.io/dashboard?id=Divyesh27458_LoginRepo
+ceTaskId=AXQZzC_5-yqAlac0M6TA
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXQZzC_5-yqAlac0M6TA
